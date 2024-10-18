@@ -1,1 +1,1 @@
-# zadanie 1 ze wstepy do sztucznej inteligencji
+# Zadanie 1 ze wstepy do sztucznej inteligencji [Proste problemy, chatboty]
